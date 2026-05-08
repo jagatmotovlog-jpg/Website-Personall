@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    padding-top: 50px;
+    font-family: Arial;
+    background-color: rgb(255, 1, 166);
+}
+
+.gambar {
+    width: 300px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
